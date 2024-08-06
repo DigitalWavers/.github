@@ -6,7 +6,7 @@ Hola **Waver**, te damos la bienvenida al espacio oficial de los repositorios de
 
 Este espacio está dedicado a alojar y gestionar todos los repositorios de los proyectos desarrollados por **Digital Wave**. Aquí, nuestros desarrolladores colaboran, comparten código, y trabajan juntos para crear soluciones de alta calidad.
 
-## Stacks Favoritos 🛠️
+## Tecnologías Favoritas 🛠️
 
 Aquí están nuestras tecnologías preferidas:
 
