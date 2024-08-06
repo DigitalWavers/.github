@@ -1,12 +1,12 @@
-# DigitalWavers
+# DigitalWavers 🌊
 
-Bienvenidos a **DigitalWavers**, el espacio oficial de los repositorios de proyectos de **Digital Wave**.
+Hola **Waver**, te damos la bienvenida al espacio oficial de los repositorios de proyectos de **Digital Wave**.
 
-## Propósito del Espacio DigitalWavers
+## Propósito del Espacio DigitalWavers 🎯
 
 Este espacio está dedicado a alojar y gestionar todos los repositorios de los proyectos desarrollados por **Digital Wave**. Aquí, nuestros desarrolladores colaboran, comparten código, y trabajan juntos para crear soluciones de alta calidad.
 
-## Stacks Favoritos
+## Stacks Favoritos 🛠️
 
 Aquí están nuestras tecnologías preferidas:
 
@@ -17,15 +17,13 @@ Aquí están nuestras tecnologías preferidas:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
-## Repositorios Destacados
+## Repositorios Destacados ⭐
 
 1. **Proyecto 1**: Descripción breve del proyecto 1.
 2. **Proyecto 2**: Descripción breve del proyecto 2.
 3. **Proyecto 3**: Descripción breve del proyecto 3.
 
-(Agrega más repositorios según sea necesario)
-
-## Estructura del Repositorio
+## Estructura del Repositorio 📁
 
 Cada repositorio sigue una estructura estándar para facilitar la navegación y colaboración:
 
@@ -35,24 +33,43 @@ Cada repositorio sigue una estructura estándar para facilitar la navegación y 
 - **`/build`**: Archivos y scripts de compilación.
 - **`README.md`**: Información general y guía del proyecto.
 
-## Contribuciones
+## Normas para Commits y Ramas 🚀
 
-Nos encanta la colaboración y las contribuciones de la comunidad. Si deseas contribuir a alguno de nuestros proyectos, por favor sigue estos pasos:
+Para mantener un historial de commits limpio y organizado, seguimos estas normas:
 
-1. Haz un fork del repositorio.
-2. Crea una rama nueva (`git checkout -b feature/nueva-feature`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Agrega nueva feature'`).
-4. Haz push a la rama (`git push origin feature/nueva-feature`).
-5. Crea un Pull Request.
+### Commits ✏️
 
-## Código de Conducta
+1. Usa mensajes claros y descriptivos.
+2. Sigue el formato:
+   - `feat:` para nuevas funcionalidades
+   - `fix:` para correcciones de errores
+   - `docs:` para cambios en la documentación
+   - `style:` para cambios de formato, no relacionados con el código
+   - `refactor:` para refactorización de código
+   - `test:` para agregar o modificar tests
+   - `chore:` para tareas de mantenimiento
+
+Ejemplo: `feat: agregar autenticación de usuarios`
+
+### Ramas 🌿
+
+1. Usa nombres de ramas descriptivos y concisos.
+2. Sigue el formato:
+   - `feature/nueva-feature` para nuevas funcionalidades
+   - `bugfix/arreglo-bug` para correcciones de errores
+   - `hotfix/arreglo-urgente` para correcciones urgentes
+   - `release/version-x.y.z` para preparar un nuevo release
+
+Ejemplo: `feature/agregar-autenticacion`
+
+## Código de Conducta 📜
 
 Esperamos que todos los colaboradores sigan nuestro [Código de Conducta](link-al-código-de-conducta) para mantener un ambiente de trabajo respetuoso y productivo.
 
-## Contacto
+## Contacto 📧
 
-Para cualquier duda o información adicional, contáctanos a través de [email@digitalwave.com](mailto:email@digitalwave.com).
+Para cualquier duda o información adicional, contáctanos a través de [hola@digitalwave.cl](mailto:hola@digitalwave.cl).
 
 ---
 
-¡Gracias por ser parte de **DigitalWavers**! Sigamos "riding the wave" hacia el éxito.
+¡Gracias por ser parte de **Digital Wave**! Sigamos hacia el éxito 🚀.
