@@ -64,7 +64,7 @@ Ejemplo: `feature/agregar-autenticacion`
 
 ## Código de Conducta 📜
 
-Esperamos que todos los colaboradores sigan nuestro [Código de Conducta](link-al-código-de-conducta) para mantener un ambiente de trabajo respetuoso y productivo.
+Esperamos que todos los colaboradores sigan nuestro [Código de Conducta](/codigo-conducta.md) para mantener un ambiente de trabajo respetuoso y productivo.
 
 ## Contacto 📧
 
